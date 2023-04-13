@@ -11,9 +11,12 @@
             "id": "4cebe2612b6e9884",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf"
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf"
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md"
               }
             }
           }
@@ -128,8 +131,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "4cebe2612b6e9884",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Lab4-assig-A.pdf",
@@ -158,7 +162,6 @@
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
     "Sylabus.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/cw1zad2pkt1.svg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
