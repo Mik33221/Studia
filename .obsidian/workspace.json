@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5069465637207
+    "width": 213.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -131,7 +131,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cebe2612b6e9884",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
