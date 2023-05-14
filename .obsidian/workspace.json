@@ -4,23 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "092cdfaf7cdc10af",
+        "id": "351f939bd006fbdd",
         "type": "tabs",
         "children": [
           {
-            "id": "4cebe2612b6e9884",
+            "id": "12257dcd86b7e049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/impedancja i moc2020.pdf"
+              }
+            }
+          },
+          {
+            "id": "d1cd5da69e0a58fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
+            "id": "baab688235fc941b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,19 +68,35 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "99ad78061fb4109b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "88869fd24b56bc07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 329.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -79,8 +113,26 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "9118e3852fdd0170",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0cd3a86e8a6d12fa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -92,93 +144,68 @@
             }
           },
           {
-            "id": "513706df279c3801",
+            "id": "0d01c980c726e770",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "972bc58ecad3fd93",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "baab688235fc941b",
   "lastOpenFiles": [
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Lab4-assig-A.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Drawing 2023-03-21 13.13.49.excalidraw.md",
-    "README.md",
-    "Notatki/Inne/Inne.md",
-    "Notatki/Inne/WF-1/WF-1.md",
-    "Notatki/Inne/BHP/BHP.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Inne/BHP",
-    "Notatki/Inne/WF-1",
-    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
-    "Notatki/Teoria systemów/Wykłady/Wykłady.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Teoria systemów/Teoria systemów.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-04-28 14.11.21.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/rezonans i imp zastepcza.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektryczność - Konrad Pempera.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektrycznosc - rozwiązane zadania.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-25 13.15.19.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Notatki Elektryczność2022.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/impedancja i moc2020.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230324143259_242.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria.md",
-    "Sylabus.pdf",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/cw1zad2pkt1.svg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Strona_tytułowa_sprawozdanie2020.docx",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/aproksymacja.xlsx",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/zaokraglenia i przyblirzenia.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/VC8045.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/104016.INSTRUKCJA_PL..2007-01-01.1.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230317143415_407.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230317133714_094.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230316152822_528.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230315162256_647.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230308181241_644.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308172557_021.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308170128_162.png",
-    "Untitled.canvas"
+    "Notatki/Filozofia/Filozofia.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Drawing 2022-10-12 12.07.04.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Lista_2_AM1.pdf"
   ]
 }
