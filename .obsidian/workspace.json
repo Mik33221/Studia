@@ -11,12 +11,9 @@
             "id": "33563735bfd07d57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png"
               }
             }
           }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png"
               }
             }
           },
@@ -131,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,10 +151,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "33563735bfd07d57",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425180906_567.png",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424171044_228.png",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-27 11.54.20.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 10.43.08.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-11 15.23.48.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/AM2-zestaw_04.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230511152411_833.png",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
