@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "48320f44f2d80247",
+        "id": "2b1f9f102aadd9b8",
         "type": "tabs",
         "children": [
           {
-            "id": "33563735bfd07d57",
+            "id": "8cdf104621e87fa4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md"
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md"
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md"
               }
             }
           },
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md",
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -151,12 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33563735bfd07d57",
+  "active": "8cdf104621e87fa4",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md",
+    "README.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.12.25.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601181902_976.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184742_203.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152159_096.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152149_483.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152138_803.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230602223943_305.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230602223926_309.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230602221545_521.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230602221412_452.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykłady.md",
+    "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-24 13.21.00.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-17 13.23.01.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Wyklad_5a_cz2.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wyklad_7a_cz2.pdf",
@@ -170,29 +197,11 @@
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Wyklad_6a_cz2.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Wyklad_6a_cz1.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-wyklad-6.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425180906_567.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424171044_228.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-27 11.54.20.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 10.43.08.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-11 15.23.48.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230511152411_833.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
-    "Notatki/Filozofia/Filozofia.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Drawing 2022-10-12 12.07.04.excalidraw.md"
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md"
   ]
 }
