@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1f9f102aadd9b8",
+        "id": "9ffa5d5c909560e8",
         "type": "tabs",
         "children": [
           {
-            "id": "8cdf104621e87fa4",
+            "id": "1ffcdd550b52f2e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -31,7 +34,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49d30ce6368bee01",
+            "id": "671d26171d29a68e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -56,15 +59,7 @@
             }
           },
           {
-            "id": "99ad78061fb4109b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "b591fa3cc6c9d080",
+            "id": "df2e6e2463b4dff4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 291.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -92,26 +87,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "9118e3852fdd0170",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0cd3a86e8a6d12fa",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -123,82 +100,95 @@
             }
           },
           {
-            "id": "2df7c4e35bf4ef93",
+            "id": "513706df279c3801",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "972bc58ecad3fd93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 327.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cdf104621e87fa4",
+  "active": "1ffcdd550b52f2e9",
   "lastOpenFiles": [
-    "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
-    "Notatki/Teoria systemów/Wykłady/Wykłady.md",
-    "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-04 18.48.13.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 12.54.49.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184428_941.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184645_939.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605130026_482.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152149_483.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184742_203.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184727_202.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184717_140.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601181241_073.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 20.50.16.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 18.41.33.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152159_096.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.12.25.excalidraw.md",
-    "README.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-24 13.21.00.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Wyklad_5a_cz2.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wyklad_7a_cz2.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wyklad_7a_cz1.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/AL2-zestaw-7.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/AL2-wyklad-7.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Wyklad_4a.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/AL2-zestaw-5.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Wyklad_6a_cz2.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Wyklad_6a_cz1.pdf"
+    "Notatki/Matematyka dyskretna/Wykłady/Kolos/Kolos.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Kolos",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-14 19.17.58.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215703_300.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614221918_806.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215637_124.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215629_657.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215621_552.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215614_366.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Rachunek_Pr_W5.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Rachunek_Pr_W6.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614205255_243.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614203023_798.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614201548_386.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614200202_031.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/W7_Korel_i_Reg (2).pdf",
+    "CODE_OF_CONDUCT.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Rachunek.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/rachunek_prawdopodobienstwa.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Kolokwium 3.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Rachunek_Pr_W3.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 2/Rachunek_Pr_W2.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 16.20.17.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-06 13.11.21.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-13 13.18.27.excalidraw.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }
