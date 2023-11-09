@@ -1,0 +1,1 @@
+![Inteligentne budynki-integracja systemów & BMS - 2023](/Notatki/Semestr%202/Podstawy%20automatyki%20i%20robotyki/Wyk%C5%82ady/Wyk%C5%82ad%206/Inteligentne%20budynki-integracja%20system%C3%B3w%20&%20BMS%20-%202023.pdf)

@@ -2,41 +2,47 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GJFDV)
 
 Zalecamy zapoznanie się z:
-[[LICENSE]]
-[[CONTRIBUTING]]
-[[CODE_OF_CONDUCT]]
+[LICENSE](/LICENSE.md)
+[CONTRIBUTING](/CONTRIBUTING.md)
+[CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md)
 
 # Studia
 ## Spis treści
-### Semestr 1  
-1. [[Algebra liniowa z geometrą analityczną]]  
-2. [[Analiza matematyczna 1.2A]]  
-3. [[Etyka inżynierka]]  
-4. [[Filozofia]]  
-5. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady|Miernictwo w informatyce i telekomunikacji - Wykłady]]  
-6. [[Podstawy programowania]]  
-7. [[Technologie informacyjne]]  
-8. [[Własność intelektualna i prawo autorskie]]  
+### [Semestr 1](/Notatki/Semestr%201/Semestr%201.md)
+### [Semestr 2](/Notatki/Semestr%202/Semestr%202.md)
+### [Semestr 3](/Notatki/Semestr%203/Semestr%203.md)
 
-### Semestr 2
-1. [[Algebra liniowa 2]]
-2. [[Analiza matematyczna 2.3A]]
-3. [[Notatki/Fizyka 1.1A/Fizyka 1.1A]]
-4. [[Matematyka dyskretna]]
-5. [[Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria|Miernictwo w informatyce i telekomunikacji - Labolatoria]]
-6. [[Podstawy automatyki i robotyki]]
-7. [[Programowanie obiektowe]]
-8. [[Rachunek prawdopodobieństwa]]
-9. [[Teoria systemów]]
+### [Inne](/Notatki/Inne/Inne.md)
 
-[[Inne]]
+## Średnia
+```dataviewjs
+for (let group of dv.pages().where(p => p["typ"] == "GK").groupBy(p => p.semestr)) {
+	let sum = 0;
+	group.rows.forEach(x=>sum+=Number(x.ects)*Number(x.ocena))
+	dv.header(3, "Semestr " + group.key + ": " + (sum/30).toFixed(3));
+}
+```
+```dataviewjs
+let sum = 0;
+let semestrCount = 1;
+dv.pages()
+	.where(p => p["typ"] == "GK")
+	.where(p => p["semestr"] !== 3)
+	.forEach(x=>{
+		sum+=x.ects*x.ocena
+		if (x.semestr > semestrCount) semestrCount = x.semestr
+	})
+dv.header(3, "Studia: " + (sum/(30*semestrCount)).toFixed(3));
+```
 
 ## Przydatne
+
+>[!Utils]
+>[bin](bin/bin.md)
+
 >[!info]
->![[Sylabus.pdf|Sylabus]]
-
-
+>![Sylabus](Sylabus.pdf)
 
 >[!info]
->[[Sylabus.pdf|Sylabus]]
->[[symbols.pdf|Symbole]]
+>[Sylabus](Sylabus.pdf)
+>[Symbole](symbols.pdf)
