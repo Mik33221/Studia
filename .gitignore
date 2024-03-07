@@ -4,3 +4,4 @@ Excalidraw/**
 .idea
 **/Recording*.webm
 Notatki/**/*.exe
+.obsidian/workspace.json
