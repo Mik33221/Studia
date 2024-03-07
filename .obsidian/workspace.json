@@ -1,36 +1,18 @@
 {
   "main": {
-    "id": "22e6f5d40891cba8",
+    "id": "6bd18fab3edc6928",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "f28ab0a6ee917742",
+        "id": "bceae1fc38b92679",
         "type": "tabs",
         "children": [
           {
-            "id": "7fe71ef39249499d",
+            "id": "158fdf8f495c93ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-=======
-        "id": "65a61be47961b238",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e87f876fa32b0b4d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md"
->>>>>>> 58fbf7c46584497c6cf92da629d95b0672220c4b
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -39,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "78e6d1bb01ac3ce5",
+    "id": "e6c64faf05792d7f",
     "type": "split",
     "children": [
       {
-        "id": "32fb0c37e4238e8b",
+        "id": "360ce07e37115e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "671d26171d29a68e",
+            "id": "7f073c6bd1e39093",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,13 +39,13 @@
             }
           },
           {
-            "id": "840e85c7e4b09b54",
+            "id": "1372cda05c8f446e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "złożona",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -72,80 +54,51 @@
             }
           },
           {
-            "id": "df2e6e2463b4dff4",
+            "id": "aa2698ad44e4bc40",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "9e90e398a7031783",
+    "id": "04a52d7f340f599d",
     "type": "split",
     "children": [
       {
-        "id": "01e3dc24875e4766",
+        "id": "9073e59a247435dc",
         "type": "tabs",
         "children": [
           {
-            "id": "63e4c1a5f04bc183",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "0f01b4308a0bf430",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "513706df279c3801",
+            "id": "27e2712b8288053e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
-=======
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
->>>>>>> 58fbf7c46584497c6cf92da629d95b0672220c4b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "972bc58ecad3fd93",
+            "id": "fb9f573ec84f552f",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-<<<<<<< HEAD
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md"
-=======
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md"
->>>>>>> 58fbf7c46584497c6cf92da629d95b0672220c4b
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "88e9f4483b5115cf",
+            "id": "f8206ed196b78071",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,126 +108,34 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "d6af28db1ff71434",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "templates:Insert template": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "janitor:Janitor: scan vault": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "7fe71ef39249499d",
-  "lastOpenFiles": [
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 6/Drawing 2023-11-16 15.13.18.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Drawing 2023-11-23 15.15.35.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Drawing 2023-11-23 15.15.35.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 6/Drawing 2023-11-16 15.13.18.excalidraw.svg",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Kolokwium.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/IZS ćw3pdf.pdf",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Pasted Image 20231108093649_675.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 09.36.04.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 10.15.59.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 09.36.04.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 10.15.59.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Pasted Image 20231108101957_896.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Untitled",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/PT - wykład nr 6b (BS).pdf",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/PT - wykład nr 6b (BS).pdf.crdownload",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 15.23.03.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 15.23.03.excalidraw.svg",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Drawing 2023-11-08 17.08.33.excalidraw.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Drawing 2023-11-08 17.08.33.excalidraw.svg",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 16.13.08.excalidraw.svg",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 16.13.08.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-08 15.16.58.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład normalny.pdf",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-=======
-  "active": "e87f876fa32b0b4d",
-  "lastOpenFiles": [
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/cwmat_10_sort.pptx",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/cwmat_10_sort.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/mso424F.tmp",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/mso3D9B.tmp",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Drawing 2024-03-06 09.39.45.excalidraw.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Drawing 2024-03-06 09.39.45.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Ćwiczenie 4.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Ćwiczenie 3.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf.crdownload",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf.crdownload",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf.crdownload",
-    "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/Projekt 1.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 4/Projekt 4.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatoria.md",
-    "README.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 7/Projekt 7.md",
-    "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201091805_736.jpg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205141248_931.jpg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 14.08.37.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094038_053.png",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094100_039.png",
->>>>>>> 58fbf7c46584497c6cf92da629d95b0672220c4b
-    "Untitled.canvas",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
-  ]
+  "active": "158fdf8f495c93ee",
+  "lastOpenFiles": []
 }

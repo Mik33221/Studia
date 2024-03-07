@@ -1,15 +1,3 @@
 {
-  "translucency": false,
-<<<<<<< HEAD
-  "baseFontSize": 24,
-=======
-  "baseFontSize": 23,
->>>>>>> 58fbf7c46584497c6cf92da629d95b0672220c4b
-  "cssTheme": "Obsidian Nord",
-  "accentColor": "#ff0000",
-  "nativeMenus": false,
-  "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "width"
-  ]
+  "accentColor": ""
 }
