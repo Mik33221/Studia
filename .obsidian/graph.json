@@ -36,17 +36,24 @@
       }
     },
     {
-      "query": "path:Notatki/Inne",
+      "query": "path:\"Notatki/Semestr 4\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:/",
+      "query": "path:Notatki/Inne",
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0078125,
+  "scale": 0.015355906606692754,
   "close": true
 }

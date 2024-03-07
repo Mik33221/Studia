@@ -1,11 +1,4 @@
-WĄTKI
-n wątków malarzy z wiaderkiem farby
-k segmentów po l sztachet
-jak skończy powinien zacząć malować od połowy nie pomalowanego
-zbiornik z farbą jest współdzielony
-executorservice można i na thread
-można dodać slider aby sleep był
-
+[project](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%205/Project/project.md)
 Podczas laboratorium należy zbudować aplikację, w której dojdzie do synchronizacji wielu wątków. Aplikacja powinna być parametryzowana i pozwalać na uruchamianie wątków oraz obserwowanie ich zachowań i stanów.  
 Zakładamy, że aplikacja będzie pełnić rolę symulatora akcji malowania wielosegmentowego płotu przez wielu malarzy zdefiniowanej jak niżej.  
 Płot do pomalowania składa się z k - segmentów, każdy zaś ma l - sztachet.  
