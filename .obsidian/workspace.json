@@ -11,11 +11,24 @@
             "id": "158fdf8f495c93ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf"
+              }
+            }
+          },
+          {
+            "id": "5baf8cf4ee73aaf6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf"
+              }
             }
           }
         ]
@@ -136,6 +152,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "158fdf8f495c93ee",
-  "lastOpenFiles": []
+  "active": "5baf8cf4ee73aaf6",
+  "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykłady.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/Wykład 1.md"
+  ]
 }
