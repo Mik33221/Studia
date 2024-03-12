@@ -21,9 +21,9 @@
             "id": "5baf8cf4ee73aaf6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf"
               }
             }
           }
@@ -152,7 +152,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5baf8cf4ee73aaf6",
+  "active": "7f073c6bd1e39093",
   "lastOpenFiles": [
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf",
